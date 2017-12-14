@@ -1,0 +1,22 @@
+
+Field Name           Value                  
+-------------------- -----------------------
+Name                 netezza
+Description          <sys description>
+Contact              <contact name>
+Location             
+IP Addr              127.0.0.1
+Up Time              216 secs
+Up Time Text         3 mins, 36 secs
+Date                 14-Dec-17, 03:32:46 EST
+State                8
+State Text           Online
+Model                esx-1-1
+Serial Num           <serial #>
+Num SFIs             0
+Num SPAs             1
+Num SPUs             1
+Num Data Slices      4
+Num Hardware Issues  0
+Num Dataslice Issues 0
+
